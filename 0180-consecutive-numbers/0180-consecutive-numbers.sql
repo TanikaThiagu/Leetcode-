@@ -1,4 +1,6 @@
-# Write your MySQL query statement below
-select L1.Num as ConsecutiveNums from Logs L1, Logs L2, Logs L3
-Where L1.Id=L2.Id-1 and L2.Id=L3.Id-1
-and L1.Num=L2.Num and L2.Num=L3.Num
+SELECT L1.num AS ConsecutiveNums FROM Logs L1, Logs L2, Logs L3
+WHERE L1.num = L2.num
+AND L1.num = L3.num
+AND L2.id = L1.id + 1
+AND L3.id = L2.id + 1
+GROUP BY L1.num;
