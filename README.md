@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/TanikaThiagu/Leetcode-/tree/main/0184-department-highest-salary/) | Medium |
 | [1280-students-and-examinations](https://github.com/TanikaThiagu/Leetcode-/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/TanikaThiagu/Leetcode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
