@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0184-department-highest-salary](https://github.com/TanikaThiagu/Leetcode-/tree/main/0184-department-highest-salary/) | Medium |
+| [1211-queries-quality-and-percentage](https://github.com/TanikaThiagu/Leetcode-/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1280-students-and-examinations](https://github.com/TanikaThiagu/Leetcode-/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/TanikaThiagu/Leetcode-/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 ## Array
