@@ -25,10 +25,12 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/TanikaThiagu/Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0032-longest-valid-parentheses](https://github.com/TanikaThiagu/Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/TanikaThiagu/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 ## Memoization
@@ -47,6 +49,7 @@
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanikaThiagu/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanikaThiagu/Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+| [0032-longest-valid-parentheses](https://github.com/TanikaThiagu/Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
