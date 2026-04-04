@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/TanikaThiagu/Leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0118-pascals-triangle](https://github.com/TanikaThiagu/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Math
@@ -36,4 +37,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/TanikaThiagu/Leetcode-/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
