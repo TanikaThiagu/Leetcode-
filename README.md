@@ -14,6 +14,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/TanikaThiagu/Leetcode-/tree/main/0027-remove-element/) | Easy |
 | [0031-next-permutation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0031-next-permutation/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0118-pascals-triangle](https://github.com/TanikaThiagu/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Math
@@ -66,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanikaThiagu/Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
