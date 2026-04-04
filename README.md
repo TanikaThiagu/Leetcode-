@@ -16,6 +16,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -24,5 +25,10 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/TanikaThiagu/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
