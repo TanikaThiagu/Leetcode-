@@ -18,6 +18,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Stack
@@ -47,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanikaThiagu/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0029-divide-two-integers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 <!---LeetCode Topics End-->
