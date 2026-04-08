@@ -21,6 +21,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0029-divide-two-integers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0029-divide-two-integers/) | Medium |
 | [0070-climbing-stairs](https://github.com/TanikaThiagu/Leetcode-/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -116,5 +117,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
