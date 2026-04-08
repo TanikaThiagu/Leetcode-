@@ -51,6 +51,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanikaThiagu/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanikaThiagu/Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0032-longest-valid-parentheses](https://github.com/TanikaThiagu/Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0058-length-of-last-word](https://github.com/TanikaThiagu/Leetcode-/tree/main/0058-length-of-last-word/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
