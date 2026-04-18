@@ -52,6 +52,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanikaThiagu/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,8 +128,21 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
