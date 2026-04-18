@@ -53,6 +53,7 @@
 | [0031-next-permutation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanikaThiagu/Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/TanikaThiagu/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +131,7 @@
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
