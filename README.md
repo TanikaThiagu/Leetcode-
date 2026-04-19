@@ -54,6 +54,7 @@
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,6 +133,7 @@
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
