@@ -33,6 +33,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/TanikaThiagu/Leetcode-/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0143-reorder-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 | [0031-next-permutation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -133,6 +135,7 @@
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
+| [0143-reorder-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/TanikaThiagu/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -142,6 +145,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
+| [0143-reorder-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0143-reorder-list/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/TanikaThiagu/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
