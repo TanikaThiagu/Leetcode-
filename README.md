@@ -22,6 +22,7 @@
 | [0059-spiral-matrix-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/TanikaThiagu/Leetcode-/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/TanikaThiagu/Leetcode-/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0036-valid-sudoku](https://github.com/TanikaThiagu/Leetcode-/tree/main/0036-valid-sudoku/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@
 | [0203-remove-linked-list-elements](https://github.com/TanikaThiagu/Leetcode-/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/TanikaThiagu/Leetcode-/tree/main/3217-delete-nodes-from-linked-list-present-in-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
