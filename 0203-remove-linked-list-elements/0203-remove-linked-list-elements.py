@@ -1,0 +1,14 @@
+class Solution(object):
+    def removeElements(self, head, val):
+        dummy = ListNode(0)
+        dummy.next = head
+        
+        curr = dummy
+        
+        while curr.next:
+            if curr.next.val == val:
+                curr.next = curr.next.next  # remove node
+            else:
+                curr = curr.next  # move forward
+        
+        return dummy.next
