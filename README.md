@@ -135,6 +135,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
