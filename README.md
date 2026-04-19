@@ -52,6 +52,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TanikaThiagu/Leetcode-/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/TanikaThiagu/Leetcode-/tree/main/0031-next-permutation/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TanikaThiagu/Leetcode-/tree/main/0002-add-two-numbers/) | Medium |
 | [0061-rotate-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0061-rotate-list/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/TanikaThiagu/Leetcode-/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0148-sort-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/TanikaThiagu/Leetcode-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TanikaThiagu/Leetcode-/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
